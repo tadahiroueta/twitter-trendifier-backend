@@ -1,5 +1,5 @@
-from email_features import sendNotification
 import twitter_features
+from email_features import sendNotification
 from mongodb_features import getSubscriptions
 
 
